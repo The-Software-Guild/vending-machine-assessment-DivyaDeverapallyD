@@ -1,0 +1,96 @@
+2021-08-03T19:35:11.025 : Item object is unmarshalled:  1:candy:10.5:189
+2021-08-03T19:35:11.129 : Item object is unmarshalled:  2:coke:20.0:0
+2021-08-03T19:35:11.129 : Item object is unmarshalled:  3:chips:15.0:8
+2021-08-03T19:35:11.129 : Inventory upated with updated items Details
+2021-08-03T19:35:11.129 : Inventory updated for3
+2021-08-03T19:35:47.729 : No items left in the inventory-null
+2021-08-03T19:38:16.957 : Item object is unmarshalled:  1:candy:10.5:188
+2021-08-03T19:38:16.957 : Item object is unmarshalled:  2:coke:20.0:0
+2021-08-03T19:38:16.957 : Item object is unmarshalled:  3:chips:15.0:8
+2021-08-03T19:38:16.957 : Inventory upated with updated items Details
+2021-08-03T19:38:16.981 : Inventory updated for1
+2021-08-03T19:40:37.104 : Invalid amount divyacom.mthree.vendingmachine.exceptions.InsufficientFundsException: Invalid amount divya
+2021-08-03T19:41:52.592 : com.mthree.vendingmachine.exceptions.InsufficientFundsException: Invalid amount divya
+2021-08-03T21:15:38.409 : com.mthree.vendingmachine.exceptions.InsufficientFundsException: Invalid amount divya
+2021-08-03T21:15:57.774 : Item object is unmarshalled:  1:candy:10.5:187
+2021-08-03T21:15:57.774 : Item object is unmarshalled:  2:coke:20.0:0
+2021-08-03T21:15:57.774 : Item object is unmarshalled:  3:chips:15.0:8
+2021-08-03T21:15:57.774 : Inventory upated with updated items Details
+2021-08-03T21:15:57.775 : Inventory updated for1
+2021-08-03T21:19:16.208 : Item object is unmarshalled:  1:candy:10.5:186
+2021-08-03T21:19:16.293 : Item object is unmarshalled:  2:coke:20.0:0
+2021-08-03T21:19:16.293 : Item object is unmarshalled:  3:chips:15.0:8
+2021-08-03T21:19:16.293 : Inventory upated with updated items Details
+2021-08-03T21:19:16.294 : Inventory updated for1
+2021-08-03T21:20:56.836 : Item object is unmarshalled:  1:candy:10.5:185
+2021-08-03T21:20:56.911 : Item object is unmarshalled:  2:coke:20.0:0
+2021-08-03T21:20:56.911 : Item object is unmarshalled:  3:chips:15.0:8
+2021-08-03T21:20:56.911 : Inventory upated with updated items Details
+2021-08-03T21:20:56.912 : Inventory updated for1
+2021-08-03T21:24:25.993 : Item object is unmarshalled:  1:candy:10.5:184
+2021-08-03T21:24:26.074 : Item object is unmarshalled:  2:coke:20.0:0
+2021-08-03T21:24:26.074 : Item object is unmarshalled:  3:chips:15.0:8
+2021-08-03T21:24:26.074 : Inventory upated with updated items Details
+2021-08-03T21:24:26.074 : Inventory updated for1
+2021-08-03T21:25:04.894 : Item object is unmarshalled:  1:candy:10.5:183
+2021-08-03T21:25:04.974 : Item object is unmarshalled:  2:coke:20.0:0
+2021-08-03T21:25:04.974 : Item object is unmarshalled:  3:chips:15.0:8
+2021-08-03T21:25:04.974 : Inventory upated with updated items Details
+2021-08-03T21:25:04.975 : Inventory updated for1
+2021-08-03T21:29:35.526 : Item object is unmarshalled:  1:candy:10.5:182
+2021-08-03T21:29:35.614 : Item object is unmarshalled:  2:coke:20.0:0
+2021-08-03T21:29:35.614 : Item object is unmarshalled:  3:chips:15.0:8
+2021-08-03T21:29:35.614 : Inventory upated with updated items Details
+2021-08-03T21:29:35.615 : Inventory updated for1
+2021-08-03T21:30:46.160 : Item object is unmarshalled:  1:candy:10.5:181
+2021-08-03T21:30:46.241 : Item object is unmarshalled:  2:coke:20.0:0
+2021-08-03T21:30:46.242 : Item object is unmarshalled:  3:chips:15.0:8
+2021-08-03T21:30:46.242 : Inventory upated with updated items Details
+2021-08-03T21:30:46.243 : Inventory updated for1
+2021-08-03T21:31:23.440 : Item object is unmarshalled:  1:candy:10.5:180
+2021-08-03T21:31:23.532 : Item object is unmarshalled:  2:coke:20.0:0
+2021-08-03T21:31:23.532 : Item object is unmarshalled:  3:chips:15.0:8
+2021-08-03T21:31:23.532 : Inventory upated with updated items Details
+2021-08-03T21:31:23.533 : Inventory updated for1
+2021-08-03T21:32:39.656 : Item object is unmarshalled:  1:candy:10.5:179
+2021-08-03T21:32:39.742 : Item object is unmarshalled:  2:coke:20.0:0
+2021-08-03T21:32:39.742 : Item object is unmarshalled:  3:chips:15.0:8
+2021-08-03T21:32:39.742 : Inventory upated with updated items Details
+2021-08-03T21:32:39.742 : Inventory updated for1
+2021-08-03T21:33:25.668 : com.mthree.vendingmachine.exceptions.NoItemInventoryException: No items left in the inventory
+2021-08-03T21:33:42.372 : Item object is unmarshalled:  1:candy:10.5:179
+2021-08-03T21:33:42.372 : Item object is unmarshalled:  2:coke:20.0:0
+2021-08-03T21:33:42.372 : Item object is unmarshalled:  3:chips:15.0:7
+2021-08-03T21:33:42.372 : Inventory upated with updated items Details
+2021-08-03T21:33:42.373 : Inventory updated for3
+2021-08-03T21:36:14.011 : com.mthree.vendingmachine.exceptions.InsufficientFundsException: Invalid amount divya
+2021-08-03T21:36:22.562 : com.mthree.vendingmachine.exceptions.InsufficientFundsException: Invalid amount divya
+2021-08-03T21:37:21.998 : Item object is unmarshalled:  1:candy:10.5:178
+2021-08-03T21:37:22.080 : Item object is unmarshalled:  2:coke:20.0:0
+2021-08-03T21:37:22.080 : Item object is unmarshalled:  3:chips:15.0:7
+2021-08-03T21:37:22.080 : Inventory upated with updated items Details
+2021-08-03T21:37:22.081 : Inventory updated for1
+2021-08-03T21:38:04.660 : com.mthree.vendingmachine.exceptions.InsufficientFundsException: Invalid amount divya
+2021-08-03T21:38:05.176 : com.mthree.vendingmachine.exceptions.InsufficientFundsException: Invalid amount divya
+2021-08-03T21:38:43.870 : com.mthree.vendingmachine.exceptions.InsufficientFundsException: Invalid amount divya
+2021-08-03T21:38:58.432 : com.mthree.vendingmachine.exceptions.InsufficientFundsException: Invalid amount divya
+2021-08-03T21:39:10.536 : Item object is unmarshalled:  1:candy:10.5:177
+2021-08-03T21:39:10.536 : Item object is unmarshalled:  2:coke:20.0:0
+2021-08-03T21:39:10.536 : Item object is unmarshalled:  3:chips:15.0:7
+2021-08-03T21:39:10.536 : Inventory upated with updated items Details
+2021-08-03T21:39:10.537 : Inventory updated for1
+2021-08-03T21:57:32.484 : Inventory upated with updated items Details
+2021-08-03T22:08:33.227 : Inventory upated with updated items Details
+2021-08-03T22:11:24.341 : Inventory upated with updated items Details
+2021-08-03T22:13:32.100 : Inventory upated with updated items Details
+2021-08-03T22:55:55.100 : Inventory upated with updated items Details
+2021-08-03T22:56:58.361 : Inventory upated with updated items Details
+2021-08-03T23:00:55.787 : Item object is unmarshalled:  1:Kitkat:5.0:200
+2021-08-03T23:00:55.793 : Item object is unmarshalled:  2:coke:20.0:0
+2021-08-03T23:00:55.794 : Item object is unmarshalled:  3:chips:15.0:6
+2021-08-03T23:00:55.794 : Inventory upated with updated items Details
+2021-08-03T23:05:10.191 : com.mthree.vendingmachine.exceptions.InsufficientFundsException: Invalid amount divya
+2021-08-03T23:05:10.230 : Item object is unmarshalled:  1:Kitkat:5.0:200
+2021-08-03T23:05:10.230 : Item object is unmarshalled:  2:coke:20.0:0
+2021-08-03T23:05:10.231 : Item object is unmarshalled:  3:chips:15.0:5
+2021-08-03T23:05:10.231 : Inventory upated with updated items Details
