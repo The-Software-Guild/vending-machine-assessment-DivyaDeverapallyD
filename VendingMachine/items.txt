@@ -1,3 +1,10 @@
-1:candy:10.5:177
+1:Cake:5.0:170
 2:coke:20.0:0
-3:chips:15.0:7
+3:chips:15.0:6
+4:Kitkat:10.5:174
+5:Pepsi:2.0:0
+6:Jelly:1.0:10
+7:Hershys:5.5:119
+8:Lindt:2.0:0
+9:Pepsi:2.5:5
+10:water:3.0:9

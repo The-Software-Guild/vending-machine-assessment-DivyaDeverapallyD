@@ -15,7 +15,7 @@ import java.util.List;
 public interface VendingMachineDao {
       List<Item> getAllItems();
 
-    public boolean validateAmount(String itemId, double amount);
+    public boolean validateAmount(String itemId, double amount) ;
 
     public void updateItems(String itemId);
     

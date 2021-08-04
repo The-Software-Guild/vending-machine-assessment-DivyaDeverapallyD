@@ -7,8 +7,12 @@ package com.mthree.vendingmachine.service;
 
 import com.mthree.vendingmachine.dao.VendingMachineDao;
 import com.mthree.vendingmachine.dto.Item;
+import com.mthree.vendingmachine.exceptions.InsufficientFundsException;
+import com.mthree.vendingmachine.exceptions.NoItemInventoryException;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 
 /**
  *
@@ -42,6 +46,20 @@ public class VendingMachineDaoStubImpl implements VendingMachineDao{
 
     @Override
     public boolean validateAmount(String itemId, double amount) {
+        
+        try{
+            if(item.getNumber_of_items()==0)
+            {
+                throw new NoItemInventoryException("No Items in the inventory");
+            }
+             if(item.getCost() <= amount)
+            return true;
+        else
+             throw new  InsufficientFundsException("Insuffieient Funds");
+        }
+        catch(InsufficientFundsException | NoItemInventoryException e){
+            
+        }
         if(item.getCost() <= amount)
             return true;
         else

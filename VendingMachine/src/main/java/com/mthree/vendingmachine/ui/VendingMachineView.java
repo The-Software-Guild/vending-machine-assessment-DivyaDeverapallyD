@@ -56,9 +56,9 @@ public class VendingMachineView {
     String id= io.readString("Enter Item Id");
     return id;    }
     
-    public void displayInSufficientAmountMessage(String errorMsg) {
+    public void displayString(String msg) {
    
-    io.print(errorMsg);
+    io.print(msg);
 }
 
     public void updateItems(String itemId) {

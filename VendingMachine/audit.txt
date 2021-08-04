@@ -94,3 +94,163 @@
 2021-08-03T23:05:10.230 : Item object is unmarshalled:  2:coke:20.0:0
 2021-08-03T23:05:10.231 : Item object is unmarshalled:  3:chips:15.0:5
 2021-08-03T23:05:10.231 : Inventory upated with updated items Details
+2021-08-04T09:54:33.591 : Item object is unmarshalled:  1:candy:10.5:176
+2021-08-04T09:54:33.607 : Item object is unmarshalled:  2:coke:20.0:0
+2021-08-04T09:54:33.607 : Item object is unmarshalled:  3:chips:15.0:7
+2021-08-04T09:54:33.607 : Inventory upated with updated items Details
+2021-08-04T09:54:33.607 : Inventory updated for1
+2021-08-04T09:57:35.847 : com.mthree.vendingmachine.exceptions.InsufficientFundsException: Invalid amount divya
+2021-08-04T09:57:45.931 : Item object is unmarshalled:  1:candy:10.5:175
+2021-08-04T09:57:45.931 : Item object is unmarshalled:  2:coke:20.0:0
+2021-08-04T09:57:45.931 : Item object is unmarshalled:  3:chips:15.0:7
+2021-08-04T09:57:45.931 : Inventory upated with updated items Details
+2021-08-04T09:57:45.932 : Inventory updated for1
+2021-08-04T10:35:32.813 : com.mthree.vendingmachine.exceptions.InsufficientFundsException: Invalid amount divya
+2021-08-04T10:35:43.254 : Item object is unmarshalled:  1:Cake:5.0:174
+2021-08-04T10:35:43.254 : Item object is unmarshalled:  2:coke:20.0:0
+2021-08-04T10:35:43.254 : Item object is unmarshalled:  3:chips:15.0:7
+2021-08-04T10:35:43.255 : Item object is unmarshalled:  4:Kitkat:10.5:175
+2021-08-04T10:35:43.255 : Item object is unmarshalled:  5:Pepsi:2.0:1
+2021-08-04T10:35:43.255 : Item object is unmarshalled:  6:Jelly:1.0:10
+2021-08-04T10:35:43.255 : Item object is unmarshalled:  7:Hershys:5.5:120
+2021-08-04T10:35:43.256 : Item object is unmarshalled:  8:Lindt:2.0:0
+2021-08-04T10:35:43.256 : Item object is unmarshalled:  9:Pepsi:2.5:5
+2021-08-04T10:35:43.256 : Item object is unmarshalled:  10:water:3.0:10
+2021-08-04T10:35:43.256 : Inventory upated with updated items Details
+2021-08-04T10:35:43.257 : Inventory updated for1
+2021-08-04T10:36:25.992 : Item object is unmarshalled:  1:Cake:5.0:173
+2021-08-04T10:36:26.005 : Item object is unmarshalled:  2:coke:20.0:0
+2021-08-04T10:36:26.005 : Item object is unmarshalled:  3:chips:15.0:7
+2021-08-04T10:36:26.006 : Item object is unmarshalled:  4:Kitkat:10.5:175
+2021-08-04T10:36:26.006 : Item object is unmarshalled:  5:Pepsi:2.0:1
+2021-08-04T10:36:26.006 : Item object is unmarshalled:  6:Jelly:1.0:10
+2021-08-04T10:36:26.007 : Item object is unmarshalled:  7:Hershys:5.5:120
+2021-08-04T10:36:26.007 : Item object is unmarshalled:  8:Lindt:2.0:0
+2021-08-04T10:36:26.007 : Item object is unmarshalled:  9:Pepsi:2.5:5
+2021-08-04T10:36:26.007 : Item object is unmarshalled:  10:water:3.0:10
+2021-08-04T10:36:26.008 : Inventory upated with updated items Details
+2021-08-04T10:36:26.008 : Inventory updated for1
+2021-08-04T10:37:04.503 : com.mthree.vendingmachine.exceptions.InsufficientFundsException: Invalid amount divya
+2021-08-04T10:37:31.310 : com.mthree.vendingmachine.exceptions.NoItemInventoryException: No items left in the inventory
+2021-08-04T10:37:49.012 : Item object is unmarshalled:  1:Cake:5.0:172
+2021-08-04T10:37:49.012 : Item object is unmarshalled:  2:coke:20.0:0
+2021-08-04T10:37:49.012 : Item object is unmarshalled:  3:chips:15.0:7
+2021-08-04T10:37:49.013 : Item object is unmarshalled:  4:Kitkat:10.5:175
+2021-08-04T10:37:49.013 : Item object is unmarshalled:  5:Pepsi:2.0:1
+2021-08-04T10:37:49.013 : Item object is unmarshalled:  6:Jelly:1.0:10
+2021-08-04T10:37:49.013 : Item object is unmarshalled:  7:Hershys:5.5:120
+2021-08-04T10:37:49.014 : Item object is unmarshalled:  8:Lindt:2.0:0
+2021-08-04T10:37:49.014 : Item object is unmarshalled:  9:Pepsi:2.5:5
+2021-08-04T10:37:49.014 : Item object is unmarshalled:  10:water:3.0:10
+2021-08-04T10:37:49.014 : Inventory upated with updated items Details
+2021-08-04T10:37:49.015 : Inventory updated for1
+2021-08-04T10:45:12.843 : com.mthree.vendingmachine.exceptions.InsufficientFundsException: Invalid amount divya
+2021-08-04T10:45:12.910 : Item object is unmarshalled:  1:Kitkat:5.0:200
+2021-08-04T10:45:12.910 : Item object is unmarshalled:  2:coke:20.0:0
+2021-08-04T10:45:12.910 : Item object is unmarshalled:  3:chips:15.0:4
+2021-08-04T10:45:12.911 : Inventory upated with updated items Details
+2021-08-04T11:09:04.126 : Item object is unmarshalled:  1:Cake:5.0:172
+2021-08-04T11:09:04.137 : Item object is unmarshalled:  2:coke:20.0:0
+2021-08-04T11:09:04.137 : Item object is unmarshalled:  3:chips:15.0:6
+2021-08-04T11:09:04.137 : Item object is unmarshalled:  4:Kitkat:10.5:175
+2021-08-04T11:09:04.137 : Item object is unmarshalled:  5:Pepsi:2.0:1
+2021-08-04T11:09:04.138 : Item object is unmarshalled:  6:Jelly:1.0:10
+2021-08-04T11:09:04.138 : Item object is unmarshalled:  7:Hershys:5.5:120
+2021-08-04T11:09:04.138 : Item object is unmarshalled:  8:Lindt:2.0:0
+2021-08-04T11:09:04.138 : Item object is unmarshalled:  9:Pepsi:2.5:5
+2021-08-04T11:09:04.138 : Item object is unmarshalled:  10:water:3.0:10
+2021-08-04T11:09:04.139 : Inventory upated with updated items Details
+2021-08-04T11:09:04.139 : Inventory updated for3
+2021-08-04T11:11:35.021 : Item object is unmarshalled:  1:Cake:5.0:172
+2021-08-04T11:11:35.032 : Item object is unmarshalled:  2:coke:20.0:0
+2021-08-04T11:11:35.032 : Item object is unmarshalled:  3:chips:15.0:6
+2021-08-04T11:11:35.032 : Item object is unmarshalled:  4:Kitkat:10.5:175
+2021-08-04T11:11:35.032 : Item object is unmarshalled:  5:Pepsi:2.0:0
+2021-08-04T11:11:35.033 : Item object is unmarshalled:  6:Jelly:1.0:10
+2021-08-04T11:11:35.033 : Item object is unmarshalled:  7:Hershys:5.5:120
+2021-08-04T11:11:35.033 : Item object is unmarshalled:  8:Lindt:2.0:0
+2021-08-04T11:11:35.034 : Item object is unmarshalled:  9:Pepsi:2.5:5
+2021-08-04T11:11:35.034 : Item object is unmarshalled:  10:water:3.0:10
+2021-08-04T11:11:35.034 : Inventory upated with updated items Details
+2021-08-04T11:11:35.034 : Inventory updated for5
+2021-08-04T11:12:10.687 : com.mthree.vendingmachine.exceptions.NoItemInventoryException: Cannot be processed as No items left in the inventory
+2021-08-04T11:12:20.757 : Item object is unmarshalled:  1:Cake:5.0:172
+2021-08-04T11:12:20.757 : Item object is unmarshalled:  2:coke:20.0:0
+2021-08-04T11:12:20.757 : Item object is unmarshalled:  3:chips:15.0:6
+2021-08-04T11:12:20.757 : Item object is unmarshalled:  4:Kitkat:10.5:175
+2021-08-04T11:12:20.758 : Item object is unmarshalled:  5:Pepsi:2.0:0
+2021-08-04T11:12:20.758 : Item object is unmarshalled:  6:Jelly:1.0:10
+2021-08-04T11:12:20.758 : Item object is unmarshalled:  7:Hershys:5.5:119
+2021-08-04T11:12:20.758 : Item object is unmarshalled:  8:Lindt:2.0:0
+2021-08-04T11:12:20.758 : Item object is unmarshalled:  9:Pepsi:2.5:5
+2021-08-04T11:12:20.758 : Item object is unmarshalled:  10:water:3.0:10
+2021-08-04T11:12:20.759 : Inventory upated with updated items Details
+2021-08-04T11:12:20.759 : Inventory updated for7
+2021-08-04T11:13:47.071 : Item object is unmarshalled:  1:Cake:5.0:172
+2021-08-04T11:13:47.081 : Item object is unmarshalled:  2:coke:20.0:0
+2021-08-04T11:13:47.081 : Item object is unmarshalled:  3:chips:15.0:6
+2021-08-04T11:13:47.082 : Item object is unmarshalled:  4:Kitkat:10.5:175
+2021-08-04T11:13:47.082 : Item object is unmarshalled:  5:Pepsi:2.0:0
+2021-08-04T11:13:47.082 : Item object is unmarshalled:  6:Jelly:1.0:10
+2021-08-04T11:13:47.082 : Item object is unmarshalled:  7:Hershys:5.5:119
+2021-08-04T11:13:47.083 : Item object is unmarshalled:  8:Lindt:2.0:0
+2021-08-04T11:13:47.083 : Item object is unmarshalled:  9:Pepsi:2.5:5
+2021-08-04T11:13:47.083 : Item object is unmarshalled:  10:water:3.0:10
+2021-08-04T11:13:47.083 : Inventory upated with updated items Details
+2021-08-04T11:13:47.083 : Inventory updated for5
+2021-08-04T11:14:33.943 : com.mthree.vendingmachine.exceptions.InsufficientFundsException: Item cannot be processes.Invalid amount.
+2021-08-04T11:14:33.987 : Item object is unmarshalled:  1:Kitkat:5.0:200
+2021-08-04T11:14:33.987 : Item object is unmarshalled:  2:coke:20.0:0
+2021-08-04T11:14:33.988 : Item object is unmarshalled:  3:chips:15.0:3
+2021-08-04T11:14:33.988 : Inventory upated with updated items Details
+2021-08-04T11:25:50.680 : Item object is unmarshalled:  1:Cake:5.0:171
+2021-08-04T11:25:50.698 : Item object is unmarshalled:  2:coke:20.0:0
+2021-08-04T11:25:50.699 : Item object is unmarshalled:  3:chips:15.0:6
+2021-08-04T11:25:50.699 : Item object is unmarshalled:  4:Kitkat:10.5:175
+2021-08-04T11:25:50.700 : Item object is unmarshalled:  5:Pepsi:2.0:0
+2021-08-04T11:25:50.700 : Item object is unmarshalled:  6:Jelly:1.0:10
+2021-08-04T11:25:50.700 : Item object is unmarshalled:  7:Hershys:5.5:119
+2021-08-04T11:25:50.701 : Item object is unmarshalled:  8:Lindt:2.0:0
+2021-08-04T11:25:50.701 : Item object is unmarshalled:  9:Pepsi:2.5:5
+2021-08-04T11:25:50.701 : Item object is unmarshalled:  10:water:3.0:10
+2021-08-04T11:25:50.701 : Inventory upated with updated items Details
+2021-08-04T11:25:50.702 : Inventory updated for1
+2021-08-04T11:31:40.721 : Item object is unmarshalled:  1:Cake:5.0:171
+2021-08-04T11:31:40.740 : Item object is unmarshalled:  2:coke:20.0:0
+2021-08-04T11:31:40.740 : Item object is unmarshalled:  3:chips:15.0:6
+2021-08-04T11:31:40.740 : Item object is unmarshalled:  4:Kitkat:10.5:175
+2021-08-04T11:31:40.740 : Item object is unmarshalled:  5:Pepsi:2.0:0
+2021-08-04T11:31:40.741 : Item object is unmarshalled:  6:Jelly:1.0:10
+2021-08-04T11:31:40.741 : Item object is unmarshalled:  7:Hershys:5.5:119
+2021-08-04T11:31:40.741 : Item object is unmarshalled:  8:Lindt:2.0:0
+2021-08-04T11:31:40.742 : Item object is unmarshalled:  9:Pepsi:2.5:5
+2021-08-04T11:31:40.742 : Item object is unmarshalled:  10:water:3.0:9
+2021-08-04T11:31:40.742 : Inventory upated with updated items Details
+2021-08-04T11:31:40.743 : Inventory updated for10
+2021-08-04T11:33:09.029 : com.mthree.vendingmachine.exceptions.NoItemInventoryException: Cannot be processed as No items left in the inventory
+2021-08-04T11:33:39.964 : com.mthree.vendingmachine.exceptions.NoItemInventoryException: Cannot be processed as No items left in the inventory
+2021-08-04T12:01:46.991 : com.mthree.vendingmachine.exceptions.InsufficientFundsException: Item cannot be processes.Invalid amount.
+2021-08-04T12:01:56.731 : Item object is unmarshalled:  1:Cake:5.0:170
+2021-08-04T12:01:56.731 : Item object is unmarshalled:  2:coke:20.0:0
+2021-08-04T12:01:56.731 : Item object is unmarshalled:  3:chips:15.0:6
+2021-08-04T12:01:56.732 : Item object is unmarshalled:  4:Kitkat:10.5:175
+2021-08-04T12:01:56.732 : Item object is unmarshalled:  5:Pepsi:2.0:0
+2021-08-04T12:01:56.732 : Item object is unmarshalled:  6:Jelly:1.0:10
+2021-08-04T12:01:56.732 : Item object is unmarshalled:  7:Hershys:5.5:119
+2021-08-04T12:01:56.732 : Item object is unmarshalled:  8:Lindt:2.0:0
+2021-08-04T12:01:56.733 : Item object is unmarshalled:  9:Pepsi:2.5:5
+2021-08-04T12:01:56.733 : Item object is unmarshalled:  10:water:3.0:9
+2021-08-04T12:01:56.733 : Inventory upated with updated items Details
+2021-08-04T12:01:56.734 : Inventory updated for1
+2021-08-04T12:02:12.154 : Item object is unmarshalled:  1:Cake:5.0:170
+2021-08-04T12:02:12.154 : Item object is unmarshalled:  2:coke:20.0:0
+2021-08-04T12:02:12.154 : Item object is unmarshalled:  3:chips:15.0:6
+2021-08-04T12:02:12.155 : Item object is unmarshalled:  4:Kitkat:10.5:174
+2021-08-04T12:02:12.155 : Item object is unmarshalled:  5:Pepsi:2.0:0
+2021-08-04T12:02:12.155 : Item object is unmarshalled:  6:Jelly:1.0:10
+2021-08-04T12:02:12.156 : Item object is unmarshalled:  7:Hershys:5.5:119
+2021-08-04T12:02:12.156 : Item object is unmarshalled:  8:Lindt:2.0:0
+2021-08-04T12:02:12.156 : Item object is unmarshalled:  9:Pepsi:2.5:5
+2021-08-04T12:02:12.157 : Item object is unmarshalled:  10:water:3.0:9
+2021-08-04T12:02:12.157 : Inventory upated with updated items Details
+2021-08-04T12:02:12.157 : Inventory updated for4

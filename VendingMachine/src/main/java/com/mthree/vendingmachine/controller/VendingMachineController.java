@@ -119,10 +119,17 @@ public class VendingMachineController {
         double remAmount= amount- itemCost;
         BigDecimal bc= new BigDecimal(String.valueOf(remAmount));
         String remainingChange= change.getChange(bc.multiply(new BigDecimal(100)));
-         System.out.println("Quarters : "+change.getQuarter().intValue()+"\t"+"Dimes : "+ 
+        view.displayString("Item is processed and Please collect the remaining Change");
+        view.displayString("**********************************************************");
+        view.displayString("Quarters : "+change.getQuarter().intValue()+"\t"+"Dimes : "+ 
                  change.getDime().intValue()+ "\t"+"Nickles : "+
                  change.getNickle().intValue()+"\t"+"Pennis : "+
                  change.getPenni().intValue());
+        run();
+      /*   System.out.println("Quarters : "+change.getQuarter().intValue()+"\t"+"Dimes : "+ 
+                 change.getDime().intValue()+ "\t"+"Nickles : "+
+                 change.getNickle().intValue()+"\t"+"Pennis : "+
+                 change.getPenni().intValue());*/
         //System.out.println("Quarters : "+change.getQuarter().setScale(0, BigDecimal.ROUND_HALF_UP)+"\t"+"Dimes : "+ change.getDime().setScale(0, BigDecimal.ROUND_HALF_UP)+ "\t"+"Nickles : "+ change.getNickle().setScale(0, BigDecimal.ROUND_HALF_UP)+"\t"+"Pennis : "+change.getPenni().setScale(0, BigDecimal.ROUND_HALF_UP));
     }
 

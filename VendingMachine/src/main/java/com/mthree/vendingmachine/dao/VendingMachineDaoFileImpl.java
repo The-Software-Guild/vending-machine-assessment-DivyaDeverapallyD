@@ -97,13 +97,13 @@ public VendingMachineDaoFileImpl(String testFile){
         if(entry.getKey().equals(itemId)){
               if(entry.getValue().getNumber_of_items() ==0)
             {
-                throw new NoItemInventoryException("No items left in the inventory");
+                throw new NoItemInventoryException("Cannot be processed as No items left in the inventory");
             }
             if(entry.getValue().getCost() <= amount){
                 return true;
             }
             else{
-                throw new InsufficientFundsException("Invalid amount divya");
+                throw new InsufficientFundsException("Item cannot be processes.Invalid amount.");
             }
           
         }
